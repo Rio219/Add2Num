@@ -24,7 +24,7 @@ Với phép tính `sum("1234", "897")`:
 
 Thư mục dự án tuân theo đúng quy ước trong đề bài:
 ```text
-~/Projects/github.com/riohoang/Add2Num
+~/Projects/github.com/Rio219/Add2Num
 ├── .gitignore
 ├── main.py                     # Demo ứng dụng Console
 ├── README.md                   # Hướng dẫn chi tiết
